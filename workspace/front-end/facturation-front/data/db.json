@@ -1,0 +1,104 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "label": "Computer2",
+      "quantite": "7000",
+      "description": "aa"
+    },
+    {
+      "id": 2,
+      "label": "Printer",
+      "quantite": 1200,
+      "description": "zz"
+    },
+    {
+      "id": 15,
+      "label": "hdd",
+      "quantite": "09999",
+      "description": "rr"
+    },
+    {
+      "id": 17,
+      "label": "pc_info",
+      "quantite": "02222",
+      "description": ""
+    },
+    {
+      "id": 22,
+      "label": "cpu",
+      "quantite": 0,
+      "description": ""
+    }
+  ],
+  "fournisseurs": [
+    {
+      "id": 1,
+      "nom": "myComputers",
+      "telephone": 4545,
+      "adresse": "aa7000 "
+    },
+    {
+      "id": 2,
+      "nom": "yourComputer",
+      "adresse": "zzz",
+      "telephone": 78798
+    },
+    {
+      "id": 3,
+      "nom": "zoom",
+      "adresse": "sdf",
+      "telephone": 4564
+    },
+    {
+      "id": 4,
+      "nom": "myteck",
+      "adresse": "sdf",
+      "telephone": 6001
+    },
+    {
+      "id": 5,
+      "nom": "wiki",
+      "adresse": "sdff",
+      "telephone": 8545
+    },
+    {
+      "nom": "wajdi mlik",
+      "telephone": "23787920",
+      "adresse": "gremda km2",
+      "id": 6
+    }
+  ],
+  "factures": [
+    {
+      "id": 2,
+      "numeroFacture": 0,
+      "date": "4545",
+      "tva": 7,
+      "remises": 1,
+      "modePaiement": "cheque",
+      "statut": "aaa",
+      "commentaires": "zzzz"
+    },
+    {
+      "id": 3,
+      "numeroFacture": 0,
+      "date": "4545",
+      "tva": 7,
+      "remises": 1,
+      "modePaiement": "cheque",
+      "statut": "aaa",
+      "commentaires": "zzzz"
+    },
+    {
+      "numeroFacture": "1",
+      "date": "2023-05-27",
+      "tva": 3,
+      "remises": 3,
+      "modePaiement": "cheque",
+      "statut": "a",
+      "commentaires": "jk",
+      "id": 4
+    }
+  ]
+}
